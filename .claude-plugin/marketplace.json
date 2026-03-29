@@ -1,0 +1,26 @@
+{
+  "name": "avdm12",
+  "owner": {
+    "name": "avdm12"
+  },
+  "metadata": {
+    "description": "Clawd Invaders — a retro Space Invaders easter egg for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "clawd-invaders",
+      "source": ".",
+      "description": "An easter egg Space Invaders game starring Clawd the Claude Code mascot. Type /invaders to play!",
+      "version": "1.0.0",
+      "author": {
+        "name": "avdm12"
+      },
+      "repository": "https://github.com/avdm12/clawd-invaders",
+      "license": "MIT",
+      "keywords": ["game", "easter-egg", "space-invaders", "clawd", "retro", "arcade"],
+      "category": "entertainment",
+      "tags": ["game", "retro", "easter-egg"]
+    }
+  ]
+}
